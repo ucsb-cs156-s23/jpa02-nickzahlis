@@ -18,7 +18,7 @@ Repo: https://ucsb-cs156-s23/STARTER-jpa02
   https://jpa02-cgaucho.herokuapp.com or https://jpa02-cgaucho.onrender.com
 
 
-Deployed at: https://jpa02-cgaucho.herokuapp.com
+Deployed at: https://jpa02h-nzahlis.herokuapp.com
 
 
 # About this repo
